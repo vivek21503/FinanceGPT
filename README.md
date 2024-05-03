@@ -24,19 +24,12 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-<!--   <a href="#future-scope">Future Scope</a> • -->
+  <a href="#Pipeline">Pipeline</a> •
   <a href="#how-to-setup">How To Setup</a> •
   <a href="#demo">DEMO</a> •
   <a href="#credits">Credits</a> •
-<!--   <a href="#author">Author</a> • -->
   <a href="#contributors">Contributors</a> •
-
-
-  <!-- <a href="#related">Related</a> •
-  <a href="#license">License</a> -->
 </p>
-
-
 
 
 
@@ -44,11 +37,16 @@
 
 
 * Integrated Reference System: Links text in financial statements with related tables for comprehensive context.
-* Enhanced Retrieval Accuracy: Employs cosine similarity for precise retrieval of text and tables from financial documents.
+* Enhanced Retrieval Accuracy: Employs a combination of BERT and TF-IDF embeddings for fast and precisely retrieving text and tables from financial documents.
 * RAG-Based Financial Analysis Tool: Utilizes a tailored RAG approach for improved navigation and comprehension of financial statements.
 * Modern UI
-  - Host the query output portal.
+  - Host the query output portal and make a WEB ChatBot.
 
+
+## Pipeline
+<br>
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="500"></a>
+<br>
 
 
 
