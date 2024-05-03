@@ -28,7 +28,7 @@
   <a href="#how-to-setup">How To Setup</a> •
   <a href="#demo">DEMO</a> •
   <a href="#credits">Credits</a> •
-  <a href="#author">Author</a> •
+<!--   <a href="#author">Author</a> • -->
   <a href="#contributors">Contributors</a> •
 
 
