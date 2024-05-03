@@ -59,13 +59,14 @@ Now we compared outputs from Llama and Falcon models to refine the selection bas
 <div align="center">
   <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="800">
   <br>
-  <div style="margin-top: 20px;">
-Initially, we gathered financial reports and articles concerning the Nifty 50 stocks. These documents were then segmented into chunks, each consisting of 100 words with a 30-word overlap. To enhance data 
-accessibility, we mapped the tables within PDFs to these chunks and organized the information into a structured database.
+  <div style="margin-top: 20px">
 	  
-Subsequently, we enriched the database by incorporating TF-IDF embeddings and BERT embeddings for efficient data retrieval. Additionally, we supplemented this financial text data with fundamental data 
-relating to the respective stocks. When a user query is submitted, we leverage cosine similarity to identify the most relevant chunks from the database. These selected chunks, along with the user query, 
-associated tables, and fundamental data, are then passed through the Llama 2.0 model which caters to the user query thereby providing the best results.
+	Initially, we gathered financial reports and articles concerning the Nifty 50 stocks. These documents were then segmented into chunks, each consisting of 100 words with a 30-word overlap. To enhance data 
+	accessibility, we mapped the tables within PDFs to these chunks and organized the information into a structured database.
+		  
+	Subsequently, we enriched the database by incorporating TF-IDF embeddings and BERT embeddings for efficient data retrieval. Additionally, we supplemented this financial text data with fundamental data 
+	relating to the respective stocks. When a user query is submitted, we leverage cosine similarity to identify the most relevant chunks from the database. These selected chunks, along with the user query, 
+	associated tables, and fundamental data, are then passed through the Llama 2.0 model which caters to the user query thereby providing the best results.
   </div>
 </div>
 
