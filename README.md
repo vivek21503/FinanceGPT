@@ -2,7 +2,7 @@
   <br>
   <img src="client\public\logo.png" alt="Markdownify" width="200"></a>
   <br>
-  STATSII
+  FIN-RAG
   <br>
 </h1>
 
@@ -98,8 +98,8 @@ Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning
 
 This software uses the following open source packages:
 
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
-- [Svelte](https://svelte.dev/)
+- [Llama](https://huggingface.co/docs/transformers/en/model_doc/llama2)
+- [Falcon](https://huggingface.co/Falconsai/text_summarization)
 
 
 ## Author
