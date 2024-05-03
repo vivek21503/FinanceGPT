@@ -46,6 +46,13 @@ Our goal is to create a financial sentiment analysis system leveraging daily new
 
 ## Methodology
 
+For document reading and preprocessing we used  PyPDF2 which extracts the text while Camelot reads tables. Now what we did was  we segmented text  into 100-word chunks with a 30-word overlap and converted table data into .txt files.
+
+Then we used data mapping and word embeddings to establish connection between text chunks and tables. Word embeddings help to transform textual data into numerical formats and for contextual understanding.
+
+For the contextual analysis part, we used a combination of two models , TF-IDF model and to handle known stocks while Bert model to manage generalized financial data. We then used Llama 2.0, integrating embeddings and contextual data for advanced predictions.
+
+Now we compared outputs from Llama and falcon models to refine the selection based on accuracy and relevance of financial predictions.
 
 ## Pipeline
 <div align="center">
