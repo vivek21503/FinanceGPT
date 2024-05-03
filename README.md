@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A RAG based financial analysis system, build on <a href="[https://svelte.dev](https://huggingface.co/docs/transformers/en/model_doc/llama2)/" target="_blank">Llama 2.0</a> 
+<h4 align="center">A RAG based financial analysis system, build on <a href="https://huggingface.co/docs/transformers/en/model_doc/llama2/" target="_blank">Llama 2.0</a> 
 
 <!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -42,14 +42,12 @@
 
 ## Key Features
 
-THIS IS FOR A GENERAL SET OF STATISTICAL QUESTIONS.
-* Dynamic Questionare
-  - We will ask minimum questions from User to get desired Statistical Suggestion. 
-* Efficient Tree Data Structure to store those questions.
-* Single Page Application
-  - A SPA which is user friendly, and will load the questions in no time, and also without loading the URLs again and again.
+
+* Integrated Reference System: Links text in financial statements with related tables for comprehensive context.
+* Enhanced Retrieval Accuracy: Employs cosine similarity for precise retrieval of text and tables from financial documents.
+* RAG-Based Financial Analysis Tool: Utilizes a tailored RAG approach for improved navigation and comprehension of financial statements.
 * Modern UI
-  - libraries to make the application visually appealing.
+  - Host the query output portal.
 
 ## Future Scope
 Currently We Implemented for General set of Questions related to Data.
