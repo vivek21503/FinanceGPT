@@ -45,13 +45,13 @@
 
 ## Pipeline
 <div align="center">
-<br>
-  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="500"></a>
-<br>
-<p class="margin-top: 20px">
-	This is our pipeline.
-</p>
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="500">
+  <br>
+  <p style="margin-top: 20px;">
+    This is our pipeline.
+  </p>
 </div>
+
 
 
 
