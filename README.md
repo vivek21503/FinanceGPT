@@ -54,41 +54,34 @@
 
 ## How To Setup
 
-To clone and run this application, you'll need [Git](https://github.com/om21481/IR-Project.git) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://github.com/om21481/IR-Project.git) and [Django](https://www.djangoproject.com/download/). From your command line:
 
 ```bash
 # Clone this repository to desired folder
-$ git clone https://github.com/Tanishq-Tiwari-28/biostats
+$ git clone https://github.com/om21481/IR-Project.git
+
+# Initialize a python environment
+$ python -m venv env
+
+# Activate the environment
+$ On windows : .\env\Scripts\activate
+$ On macos/linux: source env/bin/activate
 
 # Install The packages from Requirements.txt
 $ pip install -r requirements.txt
 
-# install Node dependencies
-$ npm install
-
-# run the backend(Main.py) server from api folder
-$ cd api
-$ flask --app main.py run
-
-# run frontend server from client folder(via another terminal)
-$ cd client
-$ npm run dev
-
-Now you will see the web application on your NPM local server.
-Click on START to proceed. 
+ 
 ```
 
 > **Note**
 > Install the Dependencies form requirements correctly.
-> In case of the ERROR "Error: Cannot find package 'rollup-plugin-svelte' ".
-Terminate the Batch job , then run "npm install" and run "npm run dev" again.
  
 
 
 ## DEMO
 
 
-https://github.com/Tanishq-Tiwari-28/biostats/assets/101003432/38cb8bdb-9a46-4b50-af35-e90c459c781c
+https://www.youtube.com/watch?v=zq2oweJvMH4&ab_channel=Vibhav
 
 
 
@@ -110,7 +103,7 @@ This software uses the following open source packages:
 
 
 ## Author
-- Tanishq Tiwari : 2021496 [GITHUB](https://github.com/Tanishq-Tiwari-28)
+- Aditya Arya : 2021510 [GITHUB](https://github.com/git-Adi)
 
 
 
