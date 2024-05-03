@@ -57,7 +57,7 @@ Now we compared outputs from Llama and Falcon models to refine the selection bas
 
 ## Pipeline
 <div align="centre">
-  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="800">
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="800" style="display: block; margin: 0 auto;">
   <br>
   <div style="margin-top: 20px; align">
 	  
