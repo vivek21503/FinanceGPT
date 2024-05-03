@@ -56,10 +56,10 @@ For the contextual analysis part, we used a combination of two models, the TF-ID
 Now we compared outputs from Llama and Falcon models to refine the selection based on the accuracy and relevance of financial predictions.
 
 ## Pipeline
-<div align="center">
+<div align="centre">
   <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="800">
   <br>
-  <div style="margin-top: 20px">
+  <div style="margin-top: 20px; align">
 	  
 	Initially, we gathered financial reports and articles concerning the Nifty 50 stocks. These documents were then segmented into 
  	chunks, each consisting of 100 words with a 30-word overlap. To enhance data accessibility, we mapped the tables within PDFs to 
