@@ -54,7 +54,7 @@
 
 ## How To Setup
 
-To clone and run this application, you'll need [Git]((https://github.com/om21481/IR-Project.git)) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://github.com/om21481/IR-Project.git) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository to desired folder
