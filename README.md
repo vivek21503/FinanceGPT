@@ -24,6 +24,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
+  <a href="#Methodology">Methodology</a> •
   <a href="#Pipeline">Pipeline</a> •
   <a href="#how-to-setup">How To Setup</a> •
   <a href="#demo">DEMO</a> •
@@ -43,13 +44,15 @@ Our goal is to create a financial sentiment analysis system leveraging daily new
 * Modern UI
   - Host the query output portal and make a WEB ChatBot.
 
+## Methodology
+
 
 ## Pipeline
 <div align="center">
-  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="1000">
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="800">
   <br>
   <div style="margin-top: 20px;">
-    This is our pipeline.
+    
   </div>
 </div>
 
