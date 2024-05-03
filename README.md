@@ -31,7 +31,7 @@
   <a href="#contributors">Contributors</a> •
 </p>
 
-
+Our goal is to create a financial sentiment analysis system leveraging daily news and articles for Indian market trend prediction. Additionally, we aim to develop a RAG-based system to address user queries from complex financial reports and articles, facilitating easier comprehension and decision-making.
 
 ## Key Features
 
