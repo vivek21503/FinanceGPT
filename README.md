@@ -49,14 +49,12 @@
 * Modern UI
   - Host the query output portal.
 
-## Future Scope
-Currently We Implemented for General set of Questions related to Data.
-We have Given an option to Upload desired CSV, but as the analysis of the CSV automatically is a dificult task for now, we might proceed with this later😊. 
+
 
 
 ## How To Setup
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git]([https://github.com/om21481/IR-Project.git]) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository to desired folder
