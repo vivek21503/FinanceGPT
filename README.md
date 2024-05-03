@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="ir_pipeline.jpg" alt="Markdownify" width="500"></a>
+  <img src="banner.jpeg" alt="Fin-Rag System" width="500"></a>
   <br>
   FIN-RAG
   <br>
