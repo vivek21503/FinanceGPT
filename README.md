@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#future-scope">Future Scope</a> •
+<!--   <a href="#future-scope">Future Scope</a> • -->
   <a href="#how-to-setup">How To Setup</a> •
   <a href="#demo">DEMO</a> •
   <a href="#credits">Credits</a> •
