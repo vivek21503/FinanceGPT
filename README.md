@@ -48,7 +48,7 @@
   <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="500">
   <br>
   <div style="margin-top: 20px;">
-    This is our pipeline.
+    
   </div>
 </div>
 
