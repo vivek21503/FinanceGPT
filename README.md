@@ -70,7 +70,10 @@ $ On macos/linux: source env/bin/activate
 # Install The packages from Requirements.txt
 $ pip install -r requirements.txt
 
- 
+$ cd IR-Project
+$ python manage.py runserver
+
+# Now the server is up and running
 ```
 
 > **Note**
@@ -100,12 +103,6 @@ This software uses the following open source packages:
 
 - [Llama](https://huggingface.co/docs/transformers/en/model_doc/llama2)
 - [Falcon](https://huggingface.co/Falconsai/text_summarization)
-
-
-## Author
-- Aditya Arya : 2021510 [GITHUB](https://github.com/git-Adi)
-
-
 
 <!-- ## Related
 
