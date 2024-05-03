@@ -106,11 +106,16 @@ This software uses the following open source packages:
 
 
 ## Contributors
-Aditya Arya - aditya21510@iiitd.ac.in
+Aditya Arya - aditya21510@iiitd.ac.in 
+
 Om Garg	    - om21481@iiitd.ac.in
+
 Vivek Anand - vivek21503@iiitd.ac.in
+
 Vibhav Balhara - vibhav21500@iiitd.ac.in
+
 Siddharth Anand - siddharth21494@iiitd.ac.in
+
 Tanuj Kamboj - tanuj21497@iiitd.ac.in
 <!-- ## Related
 
