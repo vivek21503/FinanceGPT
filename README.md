@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Web application to suggest User best statistical method based on their data, build on <a href="https://svelte.dev/" target="_blank">Svelte</a> and <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">Flask</a>.</h4>
+<h4 align="center">A RAG based financial analysis system, build on <a href="[https://svelte.dev](https://huggingface.co/docs/transformers/en/model_doc/llama2)/" target="_blank">Llama 2.0</a> 
 
 <!-- <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
