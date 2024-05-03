@@ -31,6 +31,7 @@
   <a href="#contributors">Contributors</a> •
 </p>
 
+
 Our goal is to create a financial sentiment analysis system leveraging daily news and articles for Indian market trend prediction. Additionally, we aim to develop a RAG-based system to address user queries from complex financial reports and articles, facilitating easier comprehension and decision-making.
 
 ## Key Features
@@ -45,10 +46,10 @@ Our goal is to create a financial sentiment analysis system leveraging daily new
 
 ## Pipeline
 <div align="center">
-  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="500">
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="700">
   <br>
   <div style="margin-top: 20px;">
-    
+    This is our pipeline.
   </div>
 </div>
 
@@ -60,15 +61,15 @@ Our goal is to create a financial sentiment analysis system leveraging daily new
 To clone and run this application, you'll need [Git](https://github.com/om21481/IR-Project.git) and [Django](https://www.djangoproject.com/download/). From your command line:
 
 ```bash
-# Clone this repository to desired folder
+# Clone this repository to the desired folder
 $ git clone https://github.com/om21481/IR-Project.git
 
-# Initialize a python environment
+# Initialize a Python environment
 $ python -m venv env
 
 # Activate the environment
-$ On windows : .\env\Scripts\activate
-$ On macos/linux: source env/bin/activate
+$ On windows: .\env\Scripts\activate
+$ On Macos/Linux: source env/bin/activate
 
 # Install The packages from Requirements.txt
 $ pip install -r requirements.txt
