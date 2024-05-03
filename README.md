@@ -46,7 +46,7 @@ Our goal is to create a financial sentiment analysis system leveraging daily new
 
 ## Pipeline
 <div align="center">
-  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="700">
+  <img src="ir_pipeline.jpg" alt="Fin-Rag System" width="1000">
   <br>
   <div style="margin-top: 20px;">
     This is our pipeline.
