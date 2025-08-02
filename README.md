@@ -129,18 +129,6 @@ This software uses the following open source packages:
 - [Falcon](https://huggingface.co/Falconsai/text_summarization)
 
 
-## Contributors
-Aditya Arya - aditya21510@iiitd.ac.in 
-
-Om Garg	    - om21481@iiitd.ac.in
-
-Vivek Anand - vivek21503@iiitd.ac.in
-
-Vibhav Balhara - vibhav21500@iiitd.ac.in
-
-Siddharth Anand - siddharth21494@iiitd.ac.in
-
-Tanuj Kamboj - tanuj21497@iiitd.ac.in
 <!-- ## Related
 
 [markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify -->
@@ -170,3 +158,4 @@ MIT
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
  -->
+
